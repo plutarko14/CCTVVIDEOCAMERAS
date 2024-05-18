@@ -1,0 +1,32 @@
+
+h1
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+
+body
+{
+    background-position: center;
+    background-size: cover;
+}
+canvas{
+    border: 5px double rebeccapurple;
+    border-radius: 10px;
+    margin-top: 120px;
+}
+#jkl{
+    position: fixed;
+    color: azure;
+    background-color: black;
+    bottom: 0;
+    width: 100%;
+    line-height: 2;
+    text-align: center;
+}
